@@ -6,7 +6,7 @@ Desenvolvi o CustomerPulse para praticar React e TypeScript aplicados a um cená
 
 ## Projeto online
 
-Acesse a aplicação: (https://customer-pulses.vercel.app/
+Acesse a aplicação: https://customer-pulses.vercel.app
 
 ## Sobre o projeto
 
