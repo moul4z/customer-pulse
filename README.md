@@ -4,6 +4,10 @@ Dashboard para monitoramento da saúde de clientes, identificação de riscos de
 
 Desenvolvi o CustomerPulse para praticar React e TypeScript aplicados a um cenário próximo da minha experiência com Customer Success Operations, suporte e acompanhamento de clientes.
 
+## Projeto online
+
+Acesse a aplicação: (https://customer-pulses.vercel.app/
+
 ## Sobre o projeto
 
 O sistema analisa informações como engajamento, NPS, chamados abertos e tempo sem contato para gerar automaticamente um Customer Health Score.
