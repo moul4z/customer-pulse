@@ -8,6 +8,16 @@ Desenvolvi o CustomerPulse para praticar React e TypeScript aplicados a um cená
 
 Acesse a aplicação: https://customer-pulses.vercel.app
 
+## Capturas de tela
+
+### Visão geral da carteira
+
+![Dashboard do CustomerPulse](./screenshots/dashboard.png)
+
+### Detalhes e acompanhamento do cliente
+
+![Detalhes do cliente no CustomerPulse](./screenshots/customer-details.png)
+
 ## Sobre o projeto
 
 O sistema analisa informações como engajamento, NPS, chamados abertos e tempo sem contato para gerar automaticamente um Customer Health Score.
