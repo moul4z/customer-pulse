@@ -87,7 +87,7 @@ O sistema analisa os dados do cliente e recomenda ações como:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/daniel-moulaz/customer-pulse.git
+git clone https://github.com/moul4z/customer-pulse.git
 ```
 
 Entre na pasta:
@@ -129,4 +129,4 @@ npm run build
 Desenvolvido por Daniel Moulaz.
 
 - LinkedIn: https://www.linkedin.com/in/daniel-moulaz
-- GitHub: https://github.com/daniel-moulaz
+- GitHub: https://github.com/moul4z
