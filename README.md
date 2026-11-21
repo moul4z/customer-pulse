@@ -1,5 +1,10 @@
 # CustomerPulse
 
+> **In English:** CustomerPulse is a Customer Success dashboard built with React, TypeScript and Vite.
+> It computes a health score from 0 to 100 for each account from engagement (35%), NPS (25%), open tickets (20%) and days without contact (20%), labels the account as healthy, needs attention or at risk, and suggests a next action.
+> Follow-up notes are saved in the browser's LocalStorage. There is no backend, and the eight accounts are sample data.
+> A practice project. [Live demo](https://customer-pulses.vercel.app) (interface in Portuguese). The rest of this README is in Portuguese.
+
 Dashboard para monitoramento da saúde de clientes, identificação de riscos de churn e organização de ações de Customer Success.
 
 Desenvolvi o CustomerPulse para praticar React e TypeScript aplicados a um cenário próximo da minha experiência com Customer Success Operations, suporte e acompanhamento de clientes.
@@ -130,3 +135,5 @@ Desenvolvido por Daniel Moulaz.
 
 - LinkedIn: https://www.linkedin.com/in/daniel-moulaz
 - GitHub: https://github.com/moul4z
+
+Portfólio: [moulaz.dev](https://moulaz.dev) · [English](https://moulaz.dev/en/)
